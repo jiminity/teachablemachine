@@ -82,7 +82,7 @@ if img_file_buffer is not None:
     st.write(f"📊 **신뢰도:** {confidence_score:.2%}")
     
     # NanumGothic 폰트 적용
-    font_path = 'C:/Users/jimin/AppData/Local/Microsoft/Windows/Fonts/NanumGothic-Regular.ttf'  # 시스템 폰트 경로 (리눅스 기준)
+    font_path = 'C:\ITStudy\07_MLDL\NANUMGOTHIC-REGULAR.TTF'  # 시스템 폰트 경로 (리눅스 기준)
     font_prop = fm.FontProperties(fname=font_path, size=12)
 
     # 신뢰도 바 그래프 추가
