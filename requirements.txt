@@ -2,3 +2,4 @@ keras
 numpy
 streamlit
 tensorflow==2.12
+matplotlib
