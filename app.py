@@ -74,3 +74,4 @@ if img_file_buffer is not None:
 
     st.write('Class:', class_name[2:], end="")
     st.write('Confidence score:', confidence_score)
+    
